@@ -1,0 +1,46 @@
+/* add your CSS here */
+/*Animal's All Info Format*/
+.panda_all_info
+{
+	border-style: solid;
+	border-color: #CDCDCD;
+	border-width: 1px;
+	width: 300px;
+	padding: 10px;
+	background-color: #F6F5DE;
+	/*Shadow*/
+	-webkit-box-shadow: 10px 10px 0px -3px rgba(224,224,224,1);
+	-moz-box-shadow: 10px 10px 0px -3px rgba(224,224,224,1);
+	box-shadow: 10px 10px 0px -3px rgba(224,224,224,1);
+}
+/* Animal's Image*/
+.panda_image
+{
+	width: 300px;
+	height: 200px;
+}
+/*Animal's Info*/
+.panda_des
+{  
+	border-style: solid;
+	border-color: #CDCDCD;
+	border-width: 1px;
+	padding: 10px;
+}
+/*Animal's Fact*/
+.panda_fact
+{
+	font-style: italic;
+}
+/*Animal's List*/
+.panda_des_list
+{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+/*Labels Inside The List*/
+.label
+{
+	font-weight: bold;
+}
